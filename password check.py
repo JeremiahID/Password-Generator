@@ -1,5 +1,6 @@
 
 password=""
+
 while not password:
     password=input=("enter a valid password: ")
     if password=="jerry":
