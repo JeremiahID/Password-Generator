@@ -1,4 +1,3 @@
-
 password=""
 
 while not password:
@@ -8,3 +7,4 @@ while not password:
     else:
         print("please enter a valid password")
         password=""
+
